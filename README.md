@@ -41,12 +41,14 @@ git clone https://github.com/nimishsara12/RBAC-Project.git
 
 
 ```
-##Start the Application
+## Start the Application
 Launch the development server using the following command:
 npm start
 The application will be available at http://localhost:3000.
 
-##Interacting with the Application
+---
+
+## Interacting with the Application
 Role Creation:
 Navigate to the Role Management section.
 Add roles that can be assigned to users.
@@ -62,15 +64,16 @@ Data Persistence:
 Changes are saved locally in the browser using localStorage.
 Data remains intact across page refreshes, ensuring a seamless user experience.
 
+---
 
-##Why Choose This Project?
-###Focus on Security:
+## Why Choose This Project?
+### Focus on Security:
 Email Validation: Ensures accurate data input for user accounts.
 Role-Based Access Control: Limits user permissions based on assigned roles.
-###User-Centric Design:
+### User-Centric Design:
 -- Clean, intuitive interface for managing users and roles.
 -- Fully responsive and accessible across multiple devices.
-###Extendable Architecture:
+### Extendable Architecture:
 -- Modular Codebase: Easy to maintain and extend with new features.
 -- API Ready: The system can be integrated with backend APIs for real-time functionality.
 
