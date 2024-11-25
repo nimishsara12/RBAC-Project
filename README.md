@@ -71,19 +71,19 @@ Data remains intact across page refreshes, ensuring a seamless user experience.
 Email Validation: Ensures accurate data input for user accounts.
 Role-Based Access Control: Limits user permissions based on assigned roles.
 ### User-Centric Design:
--- Clean, intuitive interface for managing users and roles.
--- Fully responsive and accessible across multiple devices.
+- Clean, intuitive interface for managing users and roles.
+- Fully responsive and accessible across multiple devices.
 ### Extendable Architecture:
--- Modular Codebase: Easy to maintain and extend with new features.
--- API Ready: The system can be integrated with backend APIs for real-time functionality.
+- Modular Codebase: Easy to maintain and extend with new features.
+- API Ready: The system can be integrated with backend APIs for real-time functionality.
 
 
-##Future Enhancements
-###API Integration:
--- Replace localStorage with RESTful API calls for better scalability and real-time updates.
-###Advanced Features:
--- Add search, filtering, and sorting capabilities for better navigation.
--- Include activity logs to track user and role changes.
-###Enhanced Security:
--- Implement role-based view restrictions to ensure controlled access.
--- Add multi-factor authentication (MFA) for secure login.
+## Future Enhancements
+### API Integration:
+- Replace localStorage with RESTful API calls for better scalability and real-time updates.
+### Advanced Features:
+- Add search, filtering, and sorting capabilities for better navigation.
+- Include activity logs to track user and role changes.
+### Enhanced Security:
+- Implement role-based view restrictions to ensure controlled access.
+- Add multi-factor authentication (MFA) for secure login.
