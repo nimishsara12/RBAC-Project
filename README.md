@@ -34,7 +34,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/harver2001/RBAC-VRV-Security.git
+git clone [https://github.com/harver2001/RBAC-VRV-Security.git](https://github.com/nimishsara12/RBAC-Project.git)
 2. Install Dependencies
 Ensure you have Node.js and npm installed. Run the following command in the project directory:
 
